@@ -1,8 +1,8 @@
 -- Create the database
-CREATE DATABASE IF NOT EXISTS novel_db;
+CREATE DATABASE IF NOT EXISTS exam_db;
 
 -- Use the database
-USE novel_db;
+USE exam_db;
 
 --
 -- Table structure for table `answers`
