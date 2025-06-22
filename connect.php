@@ -12,8 +12,8 @@
  */
 
 define('DB_SERVER', 'localhost'); // Your MySQL server host (e.g., 'localhost' or an IP address)
-define('DB_USERNAME', 'school_admin');    // Your MySQL database username
-define('DB_PASSWORD', 'cAqrXpN/6tyh0reS');        // Your MySQL database password
+define('DB_USERNAME', 'root');    // Your MySQL database username
+define('DB_PASSWORD', '');        // Your MySQL database password
 define('DB_NAME', 'exam_db'); // The name of your database
 
 // Attempt to connect to MySQL database
